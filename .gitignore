@@ -1,0 +1,10 @@
+# Node modules ko ignore karo
+frontend/node_modules
+backend/node_modules
+frontend/store-rating-frontend
+frontend/store-rating-platform
+# Optional: logs, environment files, build outputs ignore karo
+*.log
+.env
+dist
+build
